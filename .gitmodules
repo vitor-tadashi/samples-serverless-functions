@@ -1,0 +1,3 @@
+[submodule "sample-serverless-node-aws-lambda"]
+	path = sample-serverless-node-aws-lambda
+	url = git@github.com:vitor-tadashi/sample-serverless-node-aws-lambda.git
