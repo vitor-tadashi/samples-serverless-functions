@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5155ea8d-19ca-481c-a6dc-bf2c86342e16" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/sample-serverless-node-aws-lambda/serverless.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sample-serverless-node-aws-lambda/serverless.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample-serverless-node-aws-lambda" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/README.md">
+        <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="71">
@@ -28,17 +28,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serverless.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/serverless.yml">
+      <file leaf-file-name="serverless.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/serverless.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="315">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/package.json">
+        <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
@@ -47,7 +47,7 @@
         </entry>
       </file>
       <file leaf-file-name="hello-world-handler.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/src/hello-world/hello-world-handler.js">
+        <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/src/hello-world/hello-world-handler.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -55,9 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitmodules" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitmodules">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
@@ -87,6 +91,7 @@
         <option value="$PROJECT_DIR$/sample-serverless-node-aws-lambda/handler.js" />
         <option value="$PROJECT_DIR$/sample-serverless-node-aws-lambda/src/hello-world/hello-world-handler.js" />
         <option value="$PROJECT_DIR$/sample-serverless-node-aws-lambda/serverless.yml" />
+        <option value="$PROJECT_DIR$/.gitmodules" />
       </list>
     </option>
   </component>
@@ -103,11 +108,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/sample-serverless-node-aws-lambda/node_modules" />
+    <handled-path value="$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/sample-serverless-node-aws-lambda/package.json" />
+      <path value="$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -131,18 +136,18 @@
             <path>
               <item name="samples-serverless-functions" type="b2602c69:ProjectViewProjectNode" />
               <item name="samples-serverless-functions" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-serverless-node-aws-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-serverless-nodejs-aws-lambda" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samples-serverless-functions" type="b2602c69:ProjectViewProjectNode" />
               <item name="samples-serverless-functions" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-serverless-node-aws-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-serverless-nodejs-aws-lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samples-serverless-functions" type="b2602c69:ProjectViewProjectNode" />
               <item name="samples-serverless-functions" type="462c0819:PsiDirectoryNode" />
-              <item name="sample-serverless-node-aws-lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="sample-serverless-nodejs-aws-lambda" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hello-world" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -200,12 +205,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532402712918</updated>
-      <workItem from="1532402714137" duration="5923000" />
+      <workItem from="1532402714137" duration="6348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5923000" />
+    <option name="totallyTimeSpent" value="6348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
@@ -240,7 +245,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/src/hello-world/hello-world-handler.js</url>
+          <url>file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/src/hello-world/hello-world-handler.js</url>
           <line>2</line>
           <properties lambdaOrdinal="-1" />
         </line-breakpoint>
@@ -275,7 +280,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/README.md">
+    <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="71">
@@ -285,32 +290,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2250" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/package.json">
+    <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/src/hello-world/hello-world-handler.js">
+    <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/src/hello-world/hello-world-handler.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample-serverless-node-aws-lambda/serverless.yml">
+    <entry file="file://$PROJECT_DIR$/sample-serverless-nodejs-aws-lambda/serverless.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="315">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
         </state>
       </provider>
     </entry>
